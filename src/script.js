@@ -1,6 +1,6 @@
 
 
-function gerarTabuada() {
+const gerarTabuada = () => {
     let numInput = document.querySelector('input#txtnum')
     let selTab = document.querySelector('select#selInput')
 
